@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "22742601600",
+    "project_id": "authentication-methods-3aac5",
+    "storage_bucket": "authentication-methods-3aac5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22742601600:android:821b1046cb3567b1fefb65",
+        "android_client_info": {
+          "package_name": "com.example.firebase_auth_complete"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22742601600-qu98d3a1roc16uthgme1rn0qr0upg3bf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0AAyhRkuKqTA2HYJ4qMM0RPe5EoTQvSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22742601600-qu98d3a1roc16uthgme1rn0qr0upg3bf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
